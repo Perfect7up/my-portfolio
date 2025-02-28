@@ -1,5 +1,5 @@
 export const BaseInfo = {
-  name: "Perfect7up",
+  name: "Ahmad",
   position: "Full Stack Web Developer",
   description:
     "Creative Hideout is a portfolio website showcasing my work as a full-stack developer. It’s a space where creativity meets functionality, featuring projects that highlight my expertise in front-end and back-end development. From dynamic web applications to seamless user experiences, Creative Hideout is a reflection of my passion for building innovative digital solutions.",
